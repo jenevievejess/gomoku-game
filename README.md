@@ -32,4 +32,9 @@ Two players take turns placing stones on the board, and the first player to alig
 
 ## Screenshots
 
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Winning Game
+![Winning Game](screenshots/winner.png)
 
