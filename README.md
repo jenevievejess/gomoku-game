@@ -7,10 +7,10 @@ A classic Gomoku (five in a row) game built in Java using Maven and JavaFX.
 
 Requires Java and Maven (with JavaFX configured via the project's `pom.xml`).
 
-**1. Running with IntelliJ IDEA**
+**1. Running with IntelliJ IDEA:**
 Open the project in IntelliJ and run `GomokuGameFX.java`.
 
-**2. Running from the Command Line**
+**2. Running from the Command Line:**
 Navigate to the project directory and run
 ```bash
 mvn clean javafx:run
