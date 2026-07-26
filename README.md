@@ -23,6 +23,7 @@ mvn clean javafx:run
 - Two-player gameplay on a Gomoku board
 - Win detection for five in a row
 - Restart and pause functionality
+- Countdown and 
 
 
 ## Game Rules
@@ -32,7 +33,7 @@ Two players take turns placing stones on the board, and the first player to alig
 
 ## Screenshots
 
-| Gameplay | Win |
-|----------|----------|
-| ![](screenshots/gameplay.png) | ![](screenshots/win.png) |
+| Gameplay | Pause | Win |
+|----------|----------|----------|
+| ![](screenshots/gameplay.png) | ![](screenshots/pause.png) | ![](screenshots/win.png) |
 
