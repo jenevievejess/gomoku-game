@@ -23,12 +23,15 @@ mvn clean javafx:run
 - Two-player gameplay on a Gomoku board
 - Win detection for five in a row
 - Restart and pause functionality
-- Countdown and 
+- Countdown timer per turn
+- Stats panel showing move counts and longest unbroken row for each player 
 
 
 ## Game Rules
 
-Two players take turns placing stones on the board, and the first player to align five consecutive pieces horizontally, vertically, or diagonally wins.
+- Two players take turns placing stones on the board.
+- A player who runs out of time loses their turn and the other player can play their turn.
+- The first player to align five consecutive pieces horizontally, vertically, or diagonally wins.
 
 
 ## Screenshots
