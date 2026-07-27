@@ -21,6 +21,7 @@ mvn clean javafx:run
 
 - Graphical user interface built with JavaFX
 - Two-player gameplay on a Gomoku board
+- Mouse-based stone placement
 - Win detection for five in a row
 - Restart and pause functionality
 - Countdown timer per turn
