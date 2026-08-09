@@ -1,4 +1,4 @@
-# Java Gomoku Game
+# Gomoku Game
 
 A classic Gomoku (five in a row) game built in Java using Maven and JavaFX.
 
